@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://i.postimg.cc/W4k4Bbyz/rikesh.gif)
 <h1 align="center">Hi 👋, I'm RIKESH DAHAL</h1>
 <h3 align="center">A Passionate Unity Game Developer From Nepal:</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif">
@@ -29,7 +29,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rikeshgame&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-📊 My Github Stats
+## 📊 My Github Stats
 
   <br/>
     <a href="https://github-readme-stats.vercel.app/api?username=rikesh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Rikesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rikeshgame&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
