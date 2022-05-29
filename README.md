@@ -1,7 +1,7 @@
 ![MasterHead](https://i.postimg.cc/W4k4Bbyz/rikesh.gif)
 <h1 align="center">Hi 👋, I'm RIKESH DAHAL</h1>
 <h3 align="center">A Passionate Unity Game Developer From Nepal:</h3>
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/j5Wjr6Sz/coder.gif">
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/kgfKcdYD/code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikesh&label=Profile%20views&color=0e75b6&style=flat" alt="rikesh" /> </p>
 
 - 🔭 I’m currently working on **Python**
