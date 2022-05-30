@@ -1,7 +1,7 @@
-![MasterHead](https://i.postimg.cc/W4k4Bbyz/rikesh.gif)
+![MasterHead](https://media3.giphy.com/media/amifdgCEpcPNHwODn0/giphy.gif?cid=790b7611234731c0b3d1acbbae5fbc4698cc79c68c834806&rid=giphy.gif&ct=s)
 <h1 align="center">Hi 👋, I'm RIKESH DAHAL</h1>
 <h3 align="center">A Passionate Unity Game Developer From Nepal:</h3>
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/j5Wjr6Sz/coder.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/gdG2ATa4ZDbuQVO2TS/giphy.gif?cid=790b76117b99bfabb1aca55e7f7c3dc872c51ffda5a5ca2e&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikesh&label=Profile%20views&color=0e75b6&style=flat" alt="rikesh" /> </p>
 
 - 🔭 I’m currently working on **Python**
@@ -30,7 +30,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-## 📊 My Github Stats
+@My Github Stats
 
   <br/>
     <a href="https://github-readme-stats.vercel.app/api?username=rikeshgame&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=rikeshgame&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
