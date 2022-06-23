@@ -1,5 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RIKESH DAHAL😋</h1>
+![MasterHead](https://wallpaperaccess.com/full/5651990.jpg)
+<h1 align="center">Hi <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0072.gif" hight="20px" width="1px">, I'm RIKESH DAHAL😋</h1>
 <h3 align="center">A Passionate Unity Game Developer From Nepal😏:</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/gdG2ATa4ZDbuQVO2TS/giphy.gif?cid=790b76117b99bfabb1aca55e7f7c3dc872c51ffda5a5ca2e&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikesh&label=Profile%20views&color=0e75b6&style=flat" alt="rikesh" /> </p>
