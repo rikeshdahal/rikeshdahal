@@ -8,10 +8,10 @@
 
 - 🌱 I’m currently learning **Hacking🧑🏾‍💻**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RikeshGame](https://github.com/RikeshGame)
+- 👨‍💻 All of my projects are available at https://github.com/rikeshdahal
 
 - 📫 How to reach me **dahalrikesh747@gmail.com**
-- https://rikeshdahal.github.io/MyWEB/
+- https://rikeshdahal.github.io/web/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
