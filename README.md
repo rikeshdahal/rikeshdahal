@@ -32,7 +32,8 @@
     </a>
 </p>
 @My Github Stats
-
+<h3 align="left">Support:</h3>
++ <p><a href="https://www.buymeamomo.com/Rikesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chaudharimd" /></a></p><br><br>
   <br/>
     <a href="https://github-readme-stats.vercel.app/api?username=rikeshgame&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=rikeshdahal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/rikeshgame/github-readme-stats"><img alt="Rikesh dahal's  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikeshdahal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
