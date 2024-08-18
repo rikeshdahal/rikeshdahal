@@ -37,5 +37,5 @@
 <br/>
 <br/>
 
-<h3 align="left">Support:</h3>
+![snake gif](https://github.com/rikeshdahal/blob/output/github-contribution-grid-snake.gif)
  
