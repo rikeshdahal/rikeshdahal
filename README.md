@@ -1,4 +1,3 @@
-![MasterHead]([https://source.unsplash.com/1920x700/?programmer](https://unsplash.com/photos/a-rear-view-od-hooded-hacker-by-computer-in-the-dark-room-at-night-cyberwar-concept-2X_Ke2FGgb0))
 <h1 align="center">Hi <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0072.gif" hight="20px" width="1px">, I'm RIKESH DAHAL😋</h1>
 <h3 align="center">A Passionate Unity Game Developer From Nepal😏:</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/gdG2ATa4ZDbuQVO2TS/giphy.gif?cid=790b76117b99bfabb1aca55e7f7c3dc872c51ffda5a5ca2e&rid=giphy.gif&ct=g">
@@ -48,4 +47,4 @@
 <br/>
 
 <h3 align="left">Support:</h3>
- <p><a href="https://www.buymeamomo.com/Rikesh"> <img align="left" src="https://i.postimg.cc/1XZ400dc/bymeamomo.png" height="100" width="100" alt="https://i.postimg.cc/1XZ400dc/bymeamomo.png" /></a></p><br><br>
+ 
