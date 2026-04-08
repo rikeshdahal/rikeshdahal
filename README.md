@@ -2,20 +2,19 @@
 
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=RIKESH%20DAHAL&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Unity%20Dev%20%7C%20Data%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gorditas&size=40&letterSpacing=1px&duration=7000&pause=5000&color=36BCF7FFcenter=true&vCenter=true&random=true&width=600&height=60&lines=Hi%2C+Welcome+to+My+Github😁)](https://git.io/typing-svg)
 
-<!-- GREETING -->
-<h2>
-  &nbsp;Hey there! I'm Rikesh &nbsp;😎
-</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=60&lines=I+am+Rikesh+Dahal;Fullstack+Developer;Data+Engineer;Game+Developer;Ethical+Hacker.)](https://git.io/typing-svg)
+</div>
 
-<h4>🇳🇵 Building cool stuff from Nepal — Games, AI, Data & Beyond 🚀</h4>
+<h4>🇳🇵 Building cool stuff from Nepal 🇳🇵 — Games, AI, Data & Beyond 🚀</h4>
 
 <br/>
 
-<!-- PROFILE VIEWS & SOCIALS BADGES -->
+<!--SOCIALS BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rikeshdahal&label=Profile+Views&color=302b63&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
   <a href="https://www.linkedin.com/in/rikeshdahal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -49,10 +48,9 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="380" src="https://media2.giphy.com/media/gdG2ATa4ZDbuQVO2TS/giphy.gif"/>
 
 ### 👨‍💻 About Me
-
+<img align="center" alt="Coding GIF" width="380" src="https://media2.giphy.com/media/gdG2ATa4ZDbuQVO2TS/giphy.gif"/>
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -142,10 +140,18 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=rikeshdahal&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=85576731" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=85576731&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @rikeshdahal" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=85576731&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikeshdahal&theme=tokyonight&hide_border=true&background=0D1117&stroke=302b63&ring=302b63&fire=ff6b6b&currStreakLabel=ffffff" alt="GitHub Streak" width="49%"/>
   <br/>
+  
   
 </div>
 
@@ -171,8 +177,14 @@
 
 ---
 
-<div align="center">
 
+### 🚶‍♂️‍➡️Visitor
+
+<div align="center">
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@rikeshdahal?name=rikesh&theme=original-new">
+    </p>
+</div>
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
