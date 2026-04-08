@@ -1,79 +1,184 @@
-<h1 align="center">✨ राधे-कृष्ण ✨</h1>
+<div align="center">
 
-<h1 align="center">Hi <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0072.gif" height="30px">, I'm RIKESH DAHAL 😋</h1>
-<h3 align="center">🚀 A Passionate Unity Game Developer & Data Engineer from Nepal 🇳🇵</h3>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=RIKESH%20DAHAL&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Unity%20Dev%20%7C%20Data%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/gdG2ATa4ZDbuQVO2TS/giphy.gif?cid=790b76117b99bfabb1aca55e7f7c3dc872c51ffda5a5ca2e&rid=giphy.gif&ct=g">
+<!-- GREETING -->
+<h2>
+  &nbsp;Hey there! I'm Rikesh &nbsp;😎
+</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikeshdahal&label=Profile%20views&color=0e75b6&style=flat" alt="rikeshdahal" /> </p>
+<h4>🇳🇵 Building cool stuff from Nepal — Games, AI, Data & Beyond 🚀</h4>
 
----
+<br/>
 
-- 🔭 I’m currently working on **Python, Django, and Unity Projects**  
-- 🌱 I’m currently learning **Ethical Hacking, DRF, and Advanced Data Engineering**  
-- 💡 Building an AI voice assistant called **KIMI AI** – A 3D Talking AI powered by LLaMA 3  
-- 👨‍💻 All my projects are available on: [GitHub Repositories](https://github.com/rikeshdahal?tab=repositories)  
-- 📫 Reach me at **rikeshhacker747@gmail.com**  
-- 📎 LinkedIn: [Rikesh Dahal](https://www.linkedin.com/in/rikeshdahal/)  
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/rikeshdahal10" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mr-mad-hacker-61894520a/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/rikesh747" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/rikeshhacker000000/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/Rïkê-hGåmês" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="30" width="40" /></a>
-  <a href="https://discord.gg/#4400" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">🛠️ Languages, Frameworks & Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-django-rest-framework-a-powerful-and-flexible-tool-for-building-web-apis-logo-shadow-tal-revivo.png" alt="DRF" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-</p>
-
----
-
-<h3 align="center">📈 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikeshdahal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Rikesh's GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rikeshdahal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikeshdahal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-<h3 align="center">✨ Dev Card</h3>
-<p align="center">
-  <a href="https://app.daily.dev/rikeshgame">
-    <img src="https://api.daily.dev/devcards/a71b7ac7091e4e7ebc14f81251fa2001.png?r=q7l" width="400" alt="Rikesh Dahal's Dev Card"/>
+<!-- PROFILE VIEWS & SOCIALS BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rikeshdahal&label=Profile+Views&color=302b63&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rikeshdahal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:rikeshdahal0526@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/rikeshdahal10">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@Anandakhabarnepal">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/rikesh747">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mr.mad.h4ck3r/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/channels/1190324326856147066/1190324327770497056">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
+</div>
+
 ---
 
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
-<p align="center">
+<img align="right" alt="Coding GIF" width="380" src="https://media2.giphy.com/media/gdG2ATa4ZDbuQVO2TS/giphy.gif"/>
+
+### 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🎮 &nbsp;**Game Developer**
+> Crafting immersive worlds in Unity — where code meets creativity and every bug is just a hidden feature.
+
+🔐 &nbsp;**Ethical Hacker**
+> Breaking things legally since day one. CTFs, pentesting, and hunting vulnerabilities so others don't have to.
+
+</td>
+<td width="50%" valign="top">
+
+📡 &nbsp;**Data Engineer**
+> Wrangling massive datasets with Spark & SQL — turning raw chaos into clean, meaningful pipelines.
+
+🤖 &nbsp;**AI Enthusiast**
+> Currently building **KIMI AI** — a 3D talking AI powered by LLaMA 3. The future is conversational.
+
+</td>
+</tr>
+</table>
+
+> *"I don't just write code — I build experiences, break systems, and teach machines to think."*
+> — Rikesh, probably at 2AM ☕
+
+📫 **rikeshhacker747@gmail.com** &nbsp;|&nbsp; 🇳🇵 **Kathmandu, Nepal** &nbsp;|&nbsp; 🌱 **Learning:** Ethical Hacking · DRF · Advanced Data Eng
+
+
+
+---
+
+### 🛠️ Languages, Frameworks & Tools
+
+<div align="center">
+
+<!-- Languages -->
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+**Frameworks & Platforms**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=red)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+**Data & Databases**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / Security**
+
+![LLaMA](https://img.shields.io/badge/LLaMA_3-7B2FBE?style=for-the-badge&logo=meta&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+</div>
+
+---
+
+### 💻 My Setup & Gear
+
+<div align="center">
+
+| | Gear | Details |
+|:---:|:---|:---|
+| 💻 | **Laptop** | Acer Nitro V 16 AI |
+| ⌨️ | **Keyboard** | Zifriend Anti-Ghosting Mechanical |
+| 🖱️ | **Mouse** | BAJEAL G5 Wireless |
+| 🎧 | **Headphone** | FANTECH HQ56 |
+| 📱 | **Phone** | Samsung Galaxy S8+ |
+| 🎸 | **Guitar** | Mantra Guitar |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikeshdahal&theme=tokyonight&hide_border=true&background=0D1117&stroke=302b63&ring=302b63&fire=ff6b6b&currStreakLabel=ffffff" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rikeshdahal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa" width="49%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikeshdahal&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa" width="50%"/>
+</div>
+
+---
+
+### 🎮 Dev Card
+
+<div align="center">
+  <a href="https://app.daily.dev/rikeshgame">
+    <img src="https://api.daily.dev/devcards/v2/a71b7ac7091e4e7ebc14f81251fa2001.png?type=wide&r=q7l" width="652" alt="Rikesh Dahal's Dev Card"/>
+  </a>
+</div>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rikeshdahal/github-snake/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rikeshdahal/github-snake/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/rikeshdahal/github-snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="width:100%;min-width:600px;border-radius:10px;"/>
   </picture>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+*✨ राधे-कृष्ण ✨ — Crafted with ❤️ from Nepal 🇳🇵*
+
+</div>
