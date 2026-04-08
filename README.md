@@ -145,9 +145,8 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikeshdahal&theme=tokyonight&hide_border=true&background=0D1117&stroke=302b63&ring=302b63&fire=ff6b6b&currStreakLabel=ffffff" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rikeshdahal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa" width="49%"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikeshdahal&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa" width="50%"/>
+  
 </div>
 
 ---
@@ -155,9 +154,7 @@
 ### 🎮 Dev Card
 
 <div align="center">
-  <a href="https://app.daily.dev/rikeshgame">
-    <img src="https://api.daily.dev/devcards/v2/a71b7ac7091e4e7ebc14f81251fa2001.png?type=wide&r=q7l" width="652" alt="Rikesh Dahal's Dev Card"/>
-  </a>
+  <a href="https://app.daily.dev/rikeshdahal"><img src="https://api.daily.dev/devcards/v2/tk6rQN7Ej5RfuYA2RqZvM.png?type=default&r=npq" width="356" alt="Rikesh's Dev Card"/></a>
 </div>
 
 ---
