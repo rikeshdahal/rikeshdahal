@@ -49,8 +49,11 @@
 ---
 
 
-### 👨‍💻 About Me
-<img align="center" alt="Coding GIF" width="380" src="https://media2.giphy.com/media/gdG2ATa4ZDbuQVO2TS/giphy.gif"/>
+<br>
+<p ><h1 align="center"><strong>A B O U T &nbsp; M E</h1></strong></p>
+<br>
+
+<img align="right" alt="Coding GIF" width="380" src="https://media2.giphy.com/media/gdG2ATa4ZDbuQVO2TS/giphy.gif"/>
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -82,9 +85,17 @@
 
 
 ---
-
-### 🛠️ Languages, Frameworks & Tools
-
+<br>
+<p ><h1 align="center"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
+<br>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b23zmv73oakaogde5va5dcbdg4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b23zmv73oakaogde5va5dcbdg4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=000000&bar_color_cover=true">
+  </a>
+</p>
+<br>
+<p ><h1 align="center"><strong>L A N G U A G E S , F R A M E W O R K S &nbsp;& &nbsp;T O O L S</h1></strong></p>
+<br>
 <div align="center">
 
 <!-- Languages -->
@@ -121,8 +132,9 @@
 </div>
 
 ---
-
-### 💻 My Setup & Gear
+<br>
+<p ><h1 align="center"><strong>M Y &nbsp; S E T U P &nbsp;&&nbsp; G E A R</h1></strong></p>
+<br>
 
 <div align="center">
 
@@ -138,8 +150,9 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
+<br>
+<p ><h1 align="center"><strong>G I T H U B&nbsp; S T A T S</h1></strong></p>
+<br>
 <div align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=rikeshdahal&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
 <div align="center">
@@ -156,8 +169,9 @@
 </div>
 
 ---
-
-### 🎮 Dev Card
+<br>
+<p ><h1 align="center"><strong>D E V &nbsp; C A R D</h1></strong></p>
+<br>
 
 <div align="center">
   <a href="https://app.daily.dev/rikeshdahal"><img src="https://api.daily.dev/devcards/v2/tk6rQN7Ej5RfuYA2RqZvM.png?type=default&r=npq" width="356" alt="Rikesh's Dev Card"/></a>
@@ -165,8 +179,9 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
+<br>
+<p ><h1 align="center"><strong>G I T H U B &nbsp; C O N T R I B U T I O N &nbsp; S N A K E</h1></strong></p>
+<br>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rikeshdahal/github-snake/output/github-contribution-grid-snake-dark.svg"/>
@@ -177,9 +192,9 @@
 
 ---
 
-
-### 🚶‍♂️‍➡️Visitor
-
+<br>
+<p ><h1 align="center"><strong>V I S I T O R S</h1></strong></p>
+<br>
 <div align="center">
     <p>
         <img align="center" alt="count" src="https://count.getloli.com/@rikeshdahal?name=rikesh&theme=original-new">
